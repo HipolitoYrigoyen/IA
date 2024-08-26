@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8a9460c-bb8d-45e5-a168-4532d28fe94e)# Conceptos Básicos de IA y Machine Learning para Desarrolladores 🤖📊
+Conceptos Básicos de IA y Machine Learning para Desarrolladores 🤖📊
 
 ## Inteligencia Artificial (IA)
 
