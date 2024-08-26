@@ -27,6 +27,7 @@ La **Inteligencia Artificial (IA)** se centra en construir sistemas capaces de e
 
 ## Machine Learning (ML) o Aprendizaje Automático
 
+![image](https://github.com/user-attachments/assets/d9fec866-75a6-4f59-bb79-529891a8008b)
 
 
 **Definición:**  
