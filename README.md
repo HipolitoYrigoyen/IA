@@ -27,7 +27,7 @@ La **Inteligencia Artificial (IA)** se centra en construir sistemas capaces de e
 
 ## Machine Learning (ML) o Aprendizaje Automático
 
-![Uploading image.png…]()
+
 
 **Definición:**  
 **Machine Learning (ML)** es una subdisciplina de la IA que se enfoca en desarrollar algoritmos y modelos que permiten a las máquinas aprender y mejorar a partir de datos sin necesidad de programación explícita para cada tarea. 📚💡
